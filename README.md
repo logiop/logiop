@@ -9,6 +9,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Giorgio%20Vernarecci-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgio-vernarecci-4b5a8a23b)
+[![Email](https://img.shields.io/badge/Email-vernareccigiorgio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vernareccigiorgio@gmail.com)
 
 </div>
 
@@ -80,6 +81,15 @@ I'm a data analyst based in Rome with a focus on extracting actionable insights 
 <sub>Google Data Analytics Capstone — analyzing rider behavior to inform marketing strategy.</sub>
 <br><br>
 <sub><code>Google Analytics</code> <code>Data Cleaning</code> <code>Insights</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[📉 Customer Churn Analysis](https://github.com/logiop/customer-churn-analysis)**
+<br>
+<sub>Predictive modeling and analysis of customer churn patterns — identifying key drivers and retention strategies.</sub>
+<br><br>
+<sub><code>Python</code> <code>Machine Learning</code> <code>Churn Prediction</code></sub>
 
 </td>
 </tr>
