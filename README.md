@@ -55,7 +55,7 @@ I'm a data analyst based in Rome with a focus on extracting actionable insights 
 <tr>
 <td width="50%" valign="top">
 
-**📊 Irish Rental Market Analysis**
+**[📊 Irish Rental Market Analysis](https://github.com/logiop/ireland-rent-analysis)**
 <br>
 <sub>Interactive dashboard exploring rental trends, pricing dynamics, and geographic distribution across 26 Irish counties (2020–2025).</sub>
 <br><br>
@@ -64,7 +64,7 @@ I'm a data analyst based in Rome with a focus on extracting actionable insights 
 </td>
 <td width="50%" valign="top">
 
-**🏨 Hotel Value Analysis**
+**[🏨 Hotel Value Analysis](https://github.com/logiop/hotel-analysis)**
 <br>
 <sub>What 5,500 hotels teach us about value for money — analysis of Booking.com & TripAdvisor data.</sub>
 <br><br>
@@ -75,20 +75,11 @@ I'm a data analyst based in Rome with a focus on extracting actionable insights 
 <tr>
 <td width="50%" valign="top">
 
-**🚲 Cyclistic Bike-Share Case Study**
+**[🚲 Cyclistic Bike-Share Case Study](https://github.com/logiop/cyclistic-bike-share-case-study)**
 <br>
 <sub>Google Data Analytics Capstone — analyzing rider behavior to inform marketing strategy.</sub>
 <br><br>
 <sub><code>Google Analytics</code> <code>Data Cleaning</code> <code>Insights</code></sub>
-
-</td>
-<td width="50%" valign="top">
-
-**🤖 Trading Bot**
-<br>
-<sub>AI-powered trading bot built with Claude, exploring automated financial decision-making.</sub>
-<br><br>
-<sub><code>Python</code> <code>AI/LLM</code> <code>Automation</code></sub>
 
 </td>
 </tr>
